@@ -1,0 +1,11 @@
+:root {
+  /* COLORS */
+  --mainColor: #71a894;
+  --mainBlack: #303031;
+  --gray: #66645e;
+  --grayLight: #e7e7e7;
+
+  /* FONTS */
+  --mainFont: "Open Sans", sans-serif;
+  --mainSubFont: "Roboto", sans-serif;
+}

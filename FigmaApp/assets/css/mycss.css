@@ -1,0 +1,23 @@
+.flex {
+  display: flex;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.text-red {
+  color: red;
+}
+
+.text-warning {
+  color: orange;
+}
+
+.bg-warning {
+  background-color: orange;
+}
+
+.text-center {
+  text-align: center;
+}
